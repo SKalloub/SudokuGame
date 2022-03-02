@@ -1,0 +1,45 @@
+
+.buttonControl{
+-fx-background-color:  #213d59;
+-fx-border-color:  White;
+
+}
+.buttonControl:hover{
+-fx-background-color: #302d05;
+}
+
+.Check {
+-fx-background-color:  #fffca7;
+-fx-background-radius: 15px;
+-fx-border-color:  #213d59;
+-fx-border-radius: 10px;
+}
+.Check:hover{
+-fx-background-color: #d7c6a7;
+}
+.tf{
+-fx-border-color: 0.1px;
+-fx-border-color: #213d59;
+-fx-background-color:  ALICEBLUE;
+ -fx-text-fill: -fx-text-inner-color;
+ -fx-display-caret: false;
+
+
+}
+.tf: focused
+{
+-fx-background-color: #d4d077;
+}
+.tf1 {
+-fx-border-width: 1px 2.5px 1px 1px;
+-fx-border-color: #213d59;
+}
+.tf2 {
+-fx-border-width: 1px 1px 2.5px 1px;
+-fx-border-color: #213d59;
+
+}
+.tf3 {
+-fx-border-width: 1px 2.5px 2.5px 1px;
+-fx-border-color: #213d59;
+}
